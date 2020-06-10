@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "First Item",
+        "price": 785,
+        "discount": 5,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "name": "Second item",
+        "price": 384,
+        "discount": 7,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "Third Item",
+        "price": 1525,
+        "discount": 20,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Fourth item",
+        "price": 217,
+        "discount": 18,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Fifth item",
+        "price": 319,
+        "discount": 31,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "Sixth item",
+        "price": 900,
+        "discount": 20,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Seventh item",
+        "price": 734,
+        "discount": 18,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Eigth item",
+        "price": 948,
+        "discount": 31,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "name": "Ninth item",
+        "price": 1005,
+        "discount": 7,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "Tenth item",
+        "price": 1134,
+        "discount": 20,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Eleven",
+        "price": 122,
+        "discount": 18,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Twelve",
+        "price": 2356,
+        "discount": 31,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "Thirteen",
+        "price": 1452,
+        "discount": 20,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Fourteen",
+        "price": 563,
+        "discount": 18,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Fifteen",
+        "price": 7625,
+        "discount": 31,
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIMCi0h3phSUMntggEOOskGzmFmJc1Gc5f3kEngrGAoJCY8o24&usqp=CAU"
+    }
+]

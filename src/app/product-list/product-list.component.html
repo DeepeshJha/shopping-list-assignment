@@ -1,0 +1,42 @@
+<div class="container" style="height: 3em;">
+    <div class="row justify-content-center align-items-center justify-content-center">
+        <div class="col-6 text-center bg-info font-class">
+            <span type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Sort <mat-icon style="color: white; vertical-align: middle;">sort</mat-icon>
+            </span>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <a class="dropdown-item" (click)="priceLowToHigh()">Price Low to High</a>
+                <a class="dropdown-item" (click)="priceHighToLow()">Price High to Low</a>
+                <a class="dropdown-item" (click)="sortByRelevance()">Relevance</a>
+            </div>
+        </div>
+        <div class="col-6 text-center bg-secondary font-class">Filter
+            <mat-icon style="color: white; vertical-align: middle;">filter_alt</mat-icon>
+        </div>
+    </div>
+</div>
+<main>
+    <div class="grid">
+        <span *ngFor="let product of allProducts">
+            <article class="card product-item">
+                <header class="card_header">
+                    <h1 class="product_name">
+                        {{product.name}}
+                    </h1>
+                </header>
+                <div class="card_image">
+                    <img [src]="product.img_url" alt="product.name">
+                </div>
+                <div class="card_content">
+                    <h3 class="product_price">
+                        &#8377; {{product.price - product.discount}} 
+                        <span style="color: grey; text-decoration: line-through; font-size: 70%;">{{product.price}}</span>
+                    </h3>
+                </div>
+                <div class="card_actions">
+                    <button class="btn" (click)="addToCart()">Add to Cart</button>
+                </div>
+            </article>
+        </span>
+    </div>
+</main>

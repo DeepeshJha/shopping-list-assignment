@@ -1,0 +1,25 @@
+.mat-toolbar-row, .mat-toolbar-single-row {
+    padding: 0 25px !important;
+
+    ::placeholder{
+        color: white;
+    }
+    
+    .mat-form-field-appearance-outline     {
+        color: #ffffff !important;
+    }
+    
+    .mat-form-field-appearance-outline .mat-form-field-flex {
+        padding: 0 .3em 0 .5em !important;
+    }
+}
+
+.searchicon {
+    background: url(src/assets/images/search_icon.png) no-repeat scroll 7px 7px;
+    background-position: right;
+}
+
+.container {
+    // width: 100%;
+    background-color: #d1d8e0;
+}
